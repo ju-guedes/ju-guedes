@@ -4,7 +4,7 @@
 - 🎓 matemática e ciência da computação
 - 📚 estudando python, java, HTML5, CSS e Js
 - 😄 Pronome: Ela/dela
-- ☕ amante de café
+- 📧 juliaglmanata@gmail.com
 <hr>
   
 <div align="center">
