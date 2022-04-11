@@ -2,7 +2,7 @@
 
 
 - 🎓 matemática e ciência da computação
-- 📚 estudando python, java, HTML5, CSS e Js
+- 📚 estudando julia, python, java, HTML5, CSS e Js
 - 😄 Pronome: Ela/dela
 - 📧 juliaglmanata@gmail.com
 <hr>
