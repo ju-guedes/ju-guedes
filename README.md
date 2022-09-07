@@ -1,4 +1,4 @@
-### oi!!
+### olá!!
 
 
 - 🎓 matemática e ciência da computação
