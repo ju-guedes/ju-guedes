@@ -4,7 +4,7 @@
 - 🎓 matemática e ciência da computação
 - 📚 estudando julia, python, java, HTML5, CSS e Js
 - 😄 Pronome: Ela/dela
-- 📧 juliaglmanata@gmail.com
+- 📧 jmanata@proton.me
 <hr>
   
 <div align="center">
